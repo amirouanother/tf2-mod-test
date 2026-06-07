@@ -1,0 +1,19 @@
+## Build Artifacts
+bin/
+obj/
+*.dll
+*.pdb
+
+## IDE
+.vs/
+.vscode/
+*.user
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Dependencies
+packages/
+.nuget/
